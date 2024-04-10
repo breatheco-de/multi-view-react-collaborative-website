@@ -14,13 +14,18 @@ This is a collaborative project, the class will be separated in groups and each 
 
 Do not clone this repository.
 
-1. The first step to start coding is cloning the [React.js FLUX boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) on your local computer or opening it using gitpod.
+1. We recommend opening cloning the [React.js Advanced boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp).
+This is the repository you need to clone and open:
 
-b) If working locally, type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
+```txt
+https://github.com/4GeeksAcademy/react-hello-webapp
+```
 
-💡 Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+**👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+
+
+If working locally, type the following command to clone from your command line: `git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
 
 2. Invite the other students as collaborators.
 
