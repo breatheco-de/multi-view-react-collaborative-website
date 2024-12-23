@@ -16,7 +16,7 @@ Este es un proyecto colaborativo, la clase se dividirá en grupos y cada uno cre
 
 No clones este repositorio.
 
-1. El primer paso para comenzar a codificar es clonar el [React.js FLUX boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) en tu ordenador (local), o utilizando el [puente de aprovisionamiento de 4Geeks.com](https://s.4geeks.com/v1/provisioning/public/container/new?repo=https://github.com/4GeeksAcademy/react-hello-webapp) que te permite abrirlo en un sólo paso.
+1. El primer paso para comenzar a codificar es clonar el [React.js FLUX boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) en tu ordenador (local), o utilizando el [puente de aprovisionamiento](https://s.4geeks.com/v1/provisioning/public/container/new?repo=https://github.com/4GeeksAcademy/react-hello-webapp) de 4Geeks.com, que te permite abrirlo en un sólo paso.
 
 Si deseas clonar el repositorio para abrirlo en tu ordenador localmente, escribe el siguiente comando en la terminal bash:
 
