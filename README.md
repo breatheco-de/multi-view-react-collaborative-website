@@ -10,6 +10,8 @@ Enough with the landing pages and single view projects, it is time to build our 
 
 This is a collaborative project, the class will be separated in groups and each will create a piece of a multi-view website.
 
+<onlyfor saas="false" withBanner="false">
+    
 ## 🌱  How to start this project
 
 Do not clone this repository.
@@ -39,6 +41,8 @@ If working locally, type the following command to clone from your command line: 
 
 
 Done!
+
+</onlyfor>
 
 ### Pieces/Groups:
 

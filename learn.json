@@ -8,6 +8,7 @@
 	"syntax": "react.js",
 	"translations": ["es", "us"],
 	"duration" : 24,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello-webapp",
 	"description" : "Create a web app using React router and Context",
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
